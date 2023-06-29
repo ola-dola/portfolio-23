@@ -1,8 +1,8 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
-  jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
+  name: "Ola Oredola",
+  jobDescription: "Software Engineer",
+  about: `I'm a software engineer based in Lagos, Nigeria.
    I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
    I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
    I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
@@ -14,75 +14,64 @@ export const info = {
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
+      name: "Independent Contractor",
+      location: "Remote",
+      startDate: "Jan 2023",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Helping startups build their MVP web apps using tools React, Next.js, Tailwind, etc.",
+        "- Built high-conversion email templates used for customer acquisition for a real estate agency.",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Enterscale",
+      location: "Remote",
+      startDate: "Sep 2021",
+      endDate: "Dec 2022",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
+        "✓ Built the frontend web app wholly for a social listening product using React, Next.js and leveraging WebSockets for real time communication with the server.",
+        "✓ Led the effort to convert the company's flagship product from desktop only to a fully responsive web app",
+        "✓ Achieved 60% conversion rate for an external client by building multiple conversion funnels in collaboration with the growth and marketing team",
+        "✓ Architected a 46% reduction in the bundle size of a legacy internal product by leveraging CDNs, caching and modern file formats. This led to faster load times and improved app performance.",
+        "✓ Hiring, onboarding and training of other colleagues",
         "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
       ],
     },
-
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "Hydrogen HR",
+      location: "Remote",
+      startDate: "Aug 2020",
+      endDate: "Sept 2021",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "Built the startup’s admin dashboards using React, Redux, SCSS, TailwindCSS, and related tools.",
+        "Modernized the legacy React codebase converting from the old class components to modern functional components and React hooks.",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Bloomtech Institute of Technology",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Full Stack Web Development & Computer Science",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
+      name: "National Open University of Nigeria",
+      description: ["B.Sc Economics"],
     },
     {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      name: "Ascending College",
+      description: ["Cambridge A Levels: Physics, Chemistry and Biology"],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    twitter: "https://twitter.com/olascript",
+    github: "https://github.com/ola-dola",
+    email: "olami.oredola+myportfolio@gmail.com",
+    linkedin: "https://www.linkedin.com/in/ola-oredola/",
   },
 
   projects: [
