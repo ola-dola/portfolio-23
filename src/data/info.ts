@@ -4,13 +4,10 @@ export const info = {
   jobDescription: "Software Engineer",
   about: `I'm a software engineer based in Lagos, Nigeria.
    I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
-  `,
+   I have been working for 3+ years, mostly building performant web apps at startups. This has helped me to develop deep expertise in technologies like HTML, CSS/SCSS, JavaScript, Typescript, React, Next.js, Node/Express, and more.
+   In addition to my technical abilities, I have developed a keen understanding of how best to translate business problems into technical solutions using the most optimal path available. 
+   The combination of both technical ability and keen eye for business needs makes me shine in product teams that get things done. When I'm not at my desk working, I enjoy quality time with loved ones or a good tv show.
+   `,
 
   experience: [
     {
@@ -76,11 +73,28 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Crowdero.io",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/crowdero.png",
+      githubUrl: "",
+      liveUrl: "https://crowdero.io",
+      description: "Social media analytics tool built w/ Next.js and WebSockets"
+    },
+    {
+      title: "Resido",
+      isFeatured: true,
+      thumbnail: "/assets/images/resido.png",
+      githubUrl: "",
+      liveUrl: "https://resido.ng",
+      description: "Home management service for tenants and estate managers"
+    },
+    {
+      title: "Mizaru",
+      isFeatured: true,
+      thumbnail: "/assets/images/mizaru.gif",
+      githubUrl: "https://github.com/ola-dola/mizaru",
+      liveUrl: "https://chrome.google.com/webstore/detail/mizaru-see-no-evil/phddimbeaegcnfcjjemcbgpnohgonmjd",
+      description: "Chrome extension for decluttering YouTube homepage"
     },
   ],
 };
