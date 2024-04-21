@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://olaoredola.com",
   name: "Ola Oredola",
   jobDescription: "Software Engineer",
   about: `I'm a software engineer based in Lagos, Nigeria.
@@ -8,7 +8,6 @@ export const info = {
    In addition to my technical abilities, I have developed a keen understanding of how best to translate business problems into technical solutions using the most optimal path available. 
    The combination of both technical ability and keen eye for business needs makes me shine in product teams that get things done. When I'm not at my desk working, I enjoy quality time with loved ones or a good tv show.
    `,
-
   experience: [
     {
       name: "Independent Contractor",
@@ -20,7 +19,6 @@ export const info = {
         "- Built high-conversion email templates used for customer acquisition for a real estate agency.",
       ],
     },
-
     {
       name: "Enterscale",
       location: "Remote",
@@ -46,7 +44,6 @@ export const info = {
       ],
     },
   ],
-
   education: [
     {
       name: "Bloomtech Institute of Technology",
@@ -63,14 +60,12 @@ export const info = {
       description: ["Cambridge A Levels: Physics, Chemistry and Biology"],
     },
   ],
-
   socialMedia: {
     twitter: "https://twitter.com/olascript",
     github: "https://github.com/ola-dola",
     email: "olami.oredola+myportfolio@gmail.com",
     linkedin: "https://www.linkedin.com/in/ola-oredola/",
   },
-
   projects: [
     {
       title: "Crowdero.io",
